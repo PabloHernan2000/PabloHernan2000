@@ -1,6 +1,6 @@
 # Hola soy Hernán
 
-🇪🇸 Español | 🇬🇧 [English version below](#hi-im-hernan)
+🇪🇸 Español | 🇬🇧 [English version below](#hi-im-hernán)
 
 Especializado en **JavaScript** y tecnologías web modernas, con un enfoque en la creación de soluciones eficientes y escalables.  
 Mi experiencia abarca el desarrollo **backend, frontend y móvil**, optimizando el rendimiento y la usabilidad de aplicaciones.  
@@ -61,7 +61,7 @@ He liderado el desarrollo e implementación de diversas aplicaciones móviles, m
 
 # Hi! I'm Hernán
 
-[⬆️ Volver a Español](#hola-soy-hernan)
+[⬆️ Volver a Español](#hola-soy-hernán)
 
 Specialized in **JavaScript** and modern web technologies, with a focus on creating efficient and scalable solutions.  
 My experience covers **backend, frontend, and mobile development**, optimizing application performance and usability.  
